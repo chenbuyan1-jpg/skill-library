@@ -7,4 +7,5 @@ node_modules/
 dist/
 data/browser_state/
 *.log
-
+skills/daily-tech-digest/digests/
+skills/daily-tech-digest/index.html
